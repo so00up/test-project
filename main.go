@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Sprintf("12")
+	fmt.Sprintf("123")
 }
