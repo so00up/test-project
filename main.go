@@ -1,1 +1,1 @@
-package test_project
+package main
